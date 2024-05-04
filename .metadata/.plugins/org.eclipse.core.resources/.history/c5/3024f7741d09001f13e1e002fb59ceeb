@@ -1,0 +1,5 @@
+package com.mytech.thebagsservice.mappers;
+
+public interface UserMapper {
+	UserMapper MAPPER = UserMapper
+}
