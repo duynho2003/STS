@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="id"/>
+		<item key="selection" value="dologin"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="dologin"/>
+			<item value="login"/>
+			<item value="formLogin"/>
+			<item value="http.formLogin"/>
+			<item value="th:src=&quot;@{/assets/media/avatars/300-1.jpg}&quot; /&gt;"/>
+			<item value="th"/>
+			<item value="principal.fullname"/>
+			<item value="&apos;principal.fullname"/>
+			<item value="principal.fullname&apos; of bean class [org.springframework.security.authentication.AnonymousAuthenticationToken]: Bean property &apos;principal.fullname"/>
+			<item value="img alt=&quot;user&quot; th:if=&quot;${auth == null || auth.photo == null}"/>
+			<item value="auth.photo"/>
 			<item value="id"/>
 			<item value="l"/>
 			<item value="DTO"/>
 			<item value="dTo"/>
-			<item value="getName"/>
-			<item value="Name"/>
-			<item value="User"/>
-			<item value="public User"/>
-			<item value="constructor"/>
-			<item value="simple"/>
-			<item value="role"/>
 		</list>
 		<list key="replacehistory">
 		</list>

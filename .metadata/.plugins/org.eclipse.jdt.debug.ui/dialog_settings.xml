@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item key="ShowStatusLine" value="true"/>
-		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagsService/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsservice{TheBagsServiceApplication.java[TheBagsServiceApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagPortal/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsportal{TheBagPortalApplication.java[TheBagPortalApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagsWeb/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsweb{TheBagsWebApplication.java[TheBagsWebApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagsPortal/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsportal{TheBagsPortalApplication.java[TheBagsPortalApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
 		<section name="DialogBoundsSettings">
 			<item key="DIALOG_HEIGHT" value="500"/>
 			<item key="DIALOG_WIDTH" value="600"/>
@@ -10,5 +10,13 @@
 			<item key="DIALOG_Y_ORIGIN" value="186"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
+	</section>
+	<section name="expressionHistory">
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="816"/>
+		<item key="HEIGHT" value="256"/>
+		<item key="SashWeightTree" value="500"/>
+		<item key="SashWeightDetails" value="500"/>
 	</section>
 </section>
