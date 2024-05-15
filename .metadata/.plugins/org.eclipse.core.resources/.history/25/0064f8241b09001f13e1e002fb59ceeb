@@ -1,7 +1,0 @@
-package com.mytech.thebagsservice.helpers;
-
-public class AppConstant {
-	
-	public static final String emptyString = "";
-	
-}

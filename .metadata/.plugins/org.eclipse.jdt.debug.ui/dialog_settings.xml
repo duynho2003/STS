@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="78"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="839"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="100"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item key="ShowStatusLine" value="true"/>
 		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagsService/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsservice{TheBagsServiceApplication.java[TheBagsServiceApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagPortal/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsportal{TheBagPortalApplication.java[TheBagPortalApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagsWeb/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsweb{TheBagsWebApplication.java[TheBagsWebApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=TheBagsPortal/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&amp;lt;com.mytech.thebagsportal{TheBagsPortalApplication.java[TheBagsPortalApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>

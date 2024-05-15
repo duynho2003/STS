@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\Aptech\\STS\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=D\:\\Aptech\\IASF\\.git;D\:\\Aptech\\STS\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\Aptech\\IASF\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
